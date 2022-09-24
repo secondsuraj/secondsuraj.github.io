@@ -317,6 +317,8 @@ header{
   font-weight: 600;
   margin-bottom: 10px;
   color: white;
+  align-items: center;
+  justify-content: center;
 }
 .projects-overlay p{
   font-size: 0.9rem;
