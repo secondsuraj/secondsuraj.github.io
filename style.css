@@ -319,6 +319,8 @@ header{
   color: white;
   align-items: center;
   justify-content: center;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 .projects-overlay p{
   font-size: 0.9rem;
